@@ -41,3 +41,4 @@ application.yml
 *.jar
 *.yml
 src/main/resources/application.yml
+dockers/docker-compose.yml
